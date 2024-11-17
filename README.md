@@ -1,8 +1,7 @@
-<div align="center">
-  <h1 style="color: #00bfff;">👋 Hi, I'm Kartik Pokhriyal</h1>
-  <h3 style="color: #00ffff;">A Passionate Full-Stack Developer from India</h3>
-
-  ![](https://visitcount.itsvg.in/api?id=kartik1809&icon=6&color=12)
+<h1 style="color: #00bfff;">👋 Hi, I'm Kartik Pokhriyal</h1>  
+<div align="left">
+  
+  ![](https://visitcount.itsvg.in/api?id=kartik1809&icon=6&color=1)
 </div>
 
 ---
@@ -18,17 +17,9 @@
 ---
 
 ### 🌐 Connect with me:
-<p align="center">
-  <a href="https://linkedin.com/in/linkedin.com/kartikpokhriyal18" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.leetcode.com/kartik118" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://discord.gg/kartikpokhriyal.13715" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/code_autocrat.kartik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-pokhriyal-421079273) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kartik_P18) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Kartik1809) 
 
 ---
 
