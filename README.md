@@ -15,10 +15,10 @@
 
  <br/><br/><br/>
 
-<p align="center" >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kartik1809&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+<div>
+  <img  src="https://github-readme-stats.vercel.app/api?username=kartik1809&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartik1809&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</p>
+</div>
 
 <br>
 
@@ -26,21 +26,23 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartik1809&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <br>
-<!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/kartik1809/codexis-frontend" title="Codexis Frontend"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1809&repo=codexis-frontend&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/kartik1809/Zenith" title="Zenith"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1809&repo=Zenith&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/kartik1809/zenith-server" title="Zenith Server"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1809&repo=zenith-server&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/kartik1809/PitchCraft" title="PitchCraft"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1809&repo=PitchCraft&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div> -->
+  <a align="left" href="https://github.com/kartik1809/live-the-code-3.0" title="Live the Code 3.0"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1809&repo=live-the-code-3.0&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/kartik1809/EduPulse" title="EduPulse"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1809&repo=EduPulse&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
 <br/><br/><br/><br/><br/><br/>
 
 
