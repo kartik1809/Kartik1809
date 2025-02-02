@@ -12,7 +12,7 @@
 - 💼 Backend Engineer, Niro
 - 🎓 Engineering student at GGSIPU
 - 🛠 𝙿𝚘𝚜𝚒𝚝𝚒𝚟𝚎 𝚏𝚘𝚌𝚞𝚜 𝚘𝚗 𝙳SA, Web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝙱𝚕𝚘𝚌𝚔𝚌𝚑𝚊𝚒𝚗 𝚊𝚗𝚍 𝙶𝚎𝚗𝙰𝙸
-- 🌍 Located in New Delhi, India
+- 🌍 𝙻𝚘𝚌𝚊𝚝𝚎𝚍 𝚒𝚗 𝙽𝚎𝚠 𝙳𝚎𝚕𝚑𝚒, 𝙸𝚗𝚍𝚒𝚊
 
  <br/><br/><br/>
 
