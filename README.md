@@ -17,8 +17,8 @@
  <br/><br/><br/>
 
 <div>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kartik1809&theme=radical" height="150" alt="GitHub Streak" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartik1809&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kartik1809&" height="150" alt="GitHub Streak" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartik1809&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph" />
 </div>
 <br>
 
