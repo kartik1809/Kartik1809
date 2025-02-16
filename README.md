@@ -1,11 +1,12 @@
-<h1 align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/kartik1809/kartik1809/master/name.svg" alt="Kartik Pokhriyal" />
-</h1>
 
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  </p>
+</div>
 
+<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
@@ -14,6 +15,15 @@
 - 🛠 𝙿𝚘𝚜𝚒𝚝𝚒𝚟𝚎 𝚏𝚘𝚌𝚞𝚜 𝚘𝚗 𝙳SA, Web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝙱𝚕𝚘𝚌𝚔𝚌𝚑𝚊𝚒𝚗 𝚊𝚗𝚍 𝙶𝚎𝚗𝙰𝙸
 - 🌍 𝙻𝚘𝚌𝚊𝚝𝚎𝚍 𝚒𝚗 𝙽𝚎𝚠 𝙳𝚎𝚕𝚑𝚒, 𝙸𝚗𝚍𝚒𝚊
 
+## Let's Connect
+
+<table>
+<tr>
+	<td><a href="https://twitter.com/Kartik_P18" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X"></a></td>
+	<td><a href="https://linkedin.com/in/kartikpokhriyal18" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a></td>
+</tr>
+</table>
+<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 ## Technologies
  
 <table>
@@ -42,12 +52,11 @@
 	<td><img src="https://skillicons.dev/icons?i=prisma,redux,jest,materialui,bootstrap,liveblocks,gsap"></td>
 </tr>
 </table>
-
-
- <br/><br/><br/>
+<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+<br/><br/><br/>
 
 <div>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kartik1809&" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik1809&" height="150" alt="GitHub Streak" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartik1809&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph" />
 </div>
 <br>
@@ -56,18 +65,23 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartik1809&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <br>
+<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/kartik1809/codexis-frontend" title="Codexis Frontend"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1809&repo=codexis-frontend&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/kartik1809/Zenith" title="Zenith"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1809&repo=Zenith&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/kartik1809/zenith-server" title="Zenith Server"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1809&repo=zenith-server&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/kartik1809/PitchCraft" title="PitchCraft"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1809&repo=PitchCraft&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+
 <br/><br/><br/><br/><br/><br/>
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/kartik1809/live-the-code-3.0" title="Live the Code 3.0"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1809&repo=live-the-code-3.0&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/kartik1809/EduPulse" title="EduPulse"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1809&repo=EduPulse&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -75,26 +89,19 @@
 
 <br/><br/><br/><br/><br/><br/>
 
+<div align="center">
+	
+  ![](under-construction.gif)
+  <br>
 
+  **Code Cycle**<br>
 
-<div align="center" >
-  
-![](under-construction.gif)
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working now!"/>
+</div>
 
 <br>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-
-
-
-
 <br clear="both">
 
 <picture>
@@ -113,4 +120,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 </div>
-
