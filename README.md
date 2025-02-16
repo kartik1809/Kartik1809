@@ -14,6 +14,36 @@
 - 🛠 𝙿𝚘𝚜𝚒𝚝𝚒𝚟𝚎 𝚏𝚘𝚌𝚞𝚜 𝚘𝚗 𝙳SA, Web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝙱𝚕𝚘𝚌𝚔𝚌𝚑𝚊𝚒𝚗 𝚊𝚗𝚍 𝙶𝚎𝚗𝙰𝙸
 - 🌍 𝙻𝚘𝚌𝚊𝚝𝚎𝚍 𝚒𝚗 𝙽𝚎𝚠 𝙳𝚎𝚕𝚑𝚒, 𝙸𝚗𝚍𝚒𝚊
 
+## Technologies
+ 
+<table>
+<tr>
+	<td><strong>Web Development</strong></td>
+	<td><strong>Languages</strong></td>
+</tr>
+<tr>
+	<td><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,mongodb,postgres,nextjs,angular,django,bootstrap"></td>
+	<td><img src="https://skillicons.dev/icons?i=javascript,java,python,c,cpp,ts"></td>
+</tr>
+<tr>
+	<td><strong>Cybersecurity & Cloud</strong></td>
+	<td><strong>Tools</strong></td>
+</tr>
+<tr>
+	<td><img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,azure,vercel,aws,gcp"></td>
+	<td><img src="https://skillicons.dev/icons?i=git,vscode,github,githubactions,postman,notion,figma,discord"></td>
+</tr>
+<tr>
+	<td><strong>Databases</strong></td>
+	<td><strong>Frameworks & Libraries</strong></td>
+</tr>
+<tr>
+	<td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase"></td>
+	<td><img src="https://skillicons.dev/icons?i=prisma,redux,jest,materialui,bootstrap,liveblocks,gsap"></td>
+</tr>
+</table>
+
+
  <br/><br/><br/>
 
 <div>
