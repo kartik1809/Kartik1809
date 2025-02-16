@@ -16,7 +16,7 @@
 - 🌍 𝙻𝚘𝚌𝚊𝚝𝚎𝚍 𝚒𝚗 𝙽𝚎𝚠 𝙳𝚎𝚕𝚑𝚒, 𝙸𝚗𝚍𝚒𝚊
 
 ## Let's Connect
-
+![](https://komarev.com/ghpvc/?username=kartik1809)
 <table>
 <tr>
 	<td><a href="https://twitter.com/Kartik_P18" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X"></a></td>
